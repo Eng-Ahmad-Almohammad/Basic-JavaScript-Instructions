@@ -26,5 +26,8 @@
 ## OPERATORS 
 ### Expressions rely on things called *operators*; they allow programmers to create a single value from one or more values. 
 ### JavaScript contains the following *mathematical operators*, which you can use with numbers. You may remember some from math class. 
+![mathmatical operater](https://user-images.githubusercontent.com/70091044/92335126-bd512e80-f09c-11ea-88aa-d7c9744592e1.PNG)
+## STRING OPERATOR 
+### There is just one string operator: the+ symbol. It is used to join the strings on either side of it. 
 
 
