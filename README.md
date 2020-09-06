@@ -21,3 +21,10 @@
 ## CREATING AN ARRAY
 ### You create an array and give it a name just like you would any other variable (using the var keyword followed by the name of the array).
 ### The values are assigned to the array inside a pair of square brackets, and each value is separated by a comma. The values in the array do not need to be the same data type, so you can store a string, a number and a Boolean all in the same array. 
+### Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one). 
+![array](https://user-images.githubusercontent.com/70091044/92335057-f341e300-f09b-11ea-97b0-82de4f290850.PNG)
+## OPERATORS 
+### Expressions rely on things called *operators*; they allow programmers to create a single value from one or more values. 
+### JavaScript contains the following *mathematical operators*, which you can use with numbers. You may remember some from math class. 
+
+
